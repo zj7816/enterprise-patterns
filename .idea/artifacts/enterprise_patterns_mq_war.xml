@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="enterprise-patterns-mq:war">
+    <output-path>$PROJECT_DIR$/enterprise-patterns-mq/target</output-path>
+    <root id="archive" name="merchant-forum-mq-qa-0.0.8.war">
+      <element id="artifact" artifact-name="enterprise-patterns-mq:war exploded" />
+    </root>
+  </artifact>
+</component>

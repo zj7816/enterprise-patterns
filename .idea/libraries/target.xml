@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="target">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/enterprise-patterns-mq/target/merchant-forum-mq-0.0.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/enterprise-patterns-mq/target/merchant-forum-mq-0.0.1-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
